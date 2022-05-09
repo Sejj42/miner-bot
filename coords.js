@@ -23,7 +23,7 @@ const coords = {
     y: screenSize.height / 2 - 15,
   },
   southBlock: {
-    x: screenSize.width / 2 - 5,
+    x: screenSize.width / 2 + 5,
     y: screenSize.height / 2 + 10,
   },
   southWestBlock: {
@@ -31,7 +31,7 @@ const coords = {
     y: screenSize.height / 2 + 10,
   },
   northBlock: {
-    x: screenSize.width / 2 - 5,
+    x: screenSize.width / 2 + 5,
     y: screenSize.height / 2 - 40,
   },
 };

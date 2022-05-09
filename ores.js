@@ -12,10 +12,10 @@ const iron = () => {
   while (true) {
     let i = 0;
     while (i < 6) {
-      mineNode(southBlock, 7500);
-      mineNode(southWestBlock, 7500);
-      mineNode(northBlock, 7500);
-      mineNode(loopEastBlock, 7500);
+      mineNode(southBlock, 6500);
+      mineNode(southWestBlock, 6500);
+      mineNode(northBlock, 6500);
+      mineNode(loopEastBlock, 6500);
       i++;
     }
     dropFullInv(500);
